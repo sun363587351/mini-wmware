@@ -1,0 +1,3 @@
+http://vhabit.com/how-to-remove-and-add-diskgroup-via-commandline-in-vsan/
+
+https://kb.vmware.com/s/article/2150567
